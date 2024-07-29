@@ -18,16 +18,16 @@ const AboutSectionTwo = () => {
               data-wow-delay=".15s"
             >
               <Image
-                src="/polarWeb/main/public/images/about/opensource.webp"
-                alt="about image"
+                src="/polarWeb/images/about/opensource.webp"
+                alt="about image light"
                 width={800}
                 height={600}
                 style={{ objectFit: 'cover' }}
                 className="drop-shadow-three dark:hidden dark:drop-shadow-none"
               />
               <Image
-                src="/polarWeb/main/public/images/about/opensource.webp"
-                alt="about image"
+                src="/polarWeb/images/about/opensource.webp"
+                alt="about image dark"
                 width={800}
                 height={600}
                 style={{ objectFit: 'cover' }}
