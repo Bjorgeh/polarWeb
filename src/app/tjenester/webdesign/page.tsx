@@ -66,7 +66,7 @@ const BlogDetailsPage: React.FC = () => {
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
-        <link rel="icon" href="/polarWeb/images/favicon.png" />
+        <link rel="icon" href="/images/favicon.png" />
         <link rel="apple-touch-icon" href="https://www.polarcode.solutions/images/logo/croppedPolarLogo.png" />
         
         {/* Open Graph Meta Tags */}
@@ -117,7 +117,7 @@ const BlogDetailsPage: React.FC = () => {
                       <div className="mr-4">
                       <div className="relative h-10 w-10 overflow-hidden rounded-full">
                         <Image
-                          src="/polarWeb/images/blog/morten.png"
+                          src="/images/blog/morten.png"
                           alt="author"
                           width={40}
                           height={40}
@@ -189,7 +189,7 @@ const BlogDetailsPage: React.FC = () => {
                   <div className="mb-10 w-full overflow-hidden rounded">
                     <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
                     <Image
-                      src="/polarWeb/images/tjenester-details/design.webp"
+                      src="/images/tjenester-details/design.webp"
                       alt="image"
                       width={1200}
                       height={900}
