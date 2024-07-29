@@ -68,7 +68,7 @@ const Header = () => {
             >
               <div className="relative" style={{ width: '60px', height: '60px' }}>
                 <Image
-                  src="/images/logo/croppedPolarLogo.png"
+                  src="pubic/images/logo/croppedPolarLogo.png"
                   alt="logo"
                   width={60}
                   height={60}
