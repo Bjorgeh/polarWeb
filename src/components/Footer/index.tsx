@@ -24,14 +24,14 @@ const Footer = () => {
               <div className="mb-12 max-w-[360px] lg:mb-16">
                 <Link href="/" className="mb-8 inline-block">
                   <Image
-                    src="/images/logo/croppedPolarLogo.png"
+                    src="/polarWeb/images/logo/croppedPolarLogo.png"
                     alt="logo"
                     className="w-full dark:hidden"
                     width={140}
                     height={30}
                   />
                   <Image
-                    src="/images/logo/croppedPolarLogo.png"
+                    src="/polarWeb/images/logo/croppedPolarLogo.png"
                     alt="logo"
                     className="hidden w-full dark:block"
                     width={140}
@@ -182,7 +182,7 @@ const Footer = () => {
                           className="text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                         >
                           <img
-                            src="/images/icons/metaIcon.png"
+                            src="/polarWeb/images/icons/metaIcon.png"
                             alt="Ikon"
                             width="40"
                             height="18"
@@ -196,7 +196,7 @@ const Footer = () => {
                           className="text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                         >
                           <img
-                            src="/images/icons/discordIcon.png"
+                            src="/polarWeb/images/icons/discordIcon.png"
                             alt="Ikon"
                             width="50"
                             height="18"
